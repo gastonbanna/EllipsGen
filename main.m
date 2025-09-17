@@ -6,7 +6,7 @@
 % The script can also visualizes a selected pair of ellipses.
 %
 % Author: Gaston Banna
-% Date: 28 Septembre 2023
+% Date: 17 Septembre 2025
 %
 % -------------------------------------------------------------------------
 % Functionality:
@@ -18,6 +18,7 @@
 %
 % Dependencies:
 % - Configurations.m: Computes ellipsoid configurations.
+% - Contact_Solve.m: Solves the contact points for a given pair of particles.
 % - Matrices.m: Computes transformation matrices.
 % - ellipsegraph.m: Plots ellipses.
 % - test_appartenance.m: Tests point membership in ellipses.
