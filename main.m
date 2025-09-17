@@ -106,3 +106,6 @@ f = ellipsegraph(1, E_i, E_j, 3, x_i, x_j);
 % Test point membership for the displayed pair
 [p1inE, p1inH, p1ok] = membership_test(x_i, E_i, E_j);
 [p2inE, p2inH, p2ok] = membership_test(x_j, E_j, E_i);
+
+
+%3D2
